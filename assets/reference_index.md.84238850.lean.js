@@ -1,0 +1,1 @@
+import{_ as e,y as t,x as o,W as r}from"./plugin-vue_export-helper.3c841105.js";const f='{"title":"Reference","description":"","frontmatter":{},"headers":[],"relativePath":"reference/index.md","lastUpdated":1649742670101}',a={},n=r("",4),s=[n];function i(c,d,p,h,l,m){return o(),t("div",null,s)}var _=e(a,[["render",i]]);export{f as __pageData,_ as default};
